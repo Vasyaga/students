@@ -607,6 +607,9 @@
 .. |20.dz2.5| replace:: 5
 .. _20.dz2.5: https://gist.github.com/Farakhutdinova/2978c4408fe69ab95e5d4a124d0f9a13
 
+.. |21.dz2.1| replace:: 1
+.. _21.dz2.1: https://gist.github.com/Vasyaga/ef883aa1cf65846b58d4e3eaba7345ae
+
 .. |22.dz2.1| replace:: 1
 .. _22.dz2.1: https://github.com/shilak96/myproject
 .. |22.dz2.2-5| replace:: 2-5
